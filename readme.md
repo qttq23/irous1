@@ -1,1 +1,0 @@
-"from myGit2" 
